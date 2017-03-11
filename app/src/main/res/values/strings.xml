@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Employee Details</string>
+    <string name="app_loading">Loading</string>
+    <string name="app_network_error">Check Network Connection</string>
+    <string name="app_online_data">Online Data</string>
+    <string name="app_Offline_data">Offline Data</string>
+</resources>
